@@ -1,0 +1,26 @@
+{
+  "name": "sushi-dashboard",
+  "version": "1.0.0",
+  "description": "SushiSwap Dashboard",
+  "main": "server.js",
+  "dependencies": {
+    "docker": "^1.0.0",
+    "docker-compose": "^0.23.13",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonikesel1/sushi-dashboard.git"
+  },
+  "author": "Yoni Keselbrener",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonikesel1/sushi-dashboard/issues"
+  },
+  "homepage": "https://github.com/yonikesel1/sushi-dashboard#readme"
+}
