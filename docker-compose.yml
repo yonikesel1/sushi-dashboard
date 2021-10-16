@@ -1,14 +1,6 @@
-version: "3.4"
+version: "3.9"
 
 services:
   node:
-    image: "node"
-    user: "node"
-    working_dir: /home/node/app
-    environment:
-      - NODE_ENV=production
-    volumes:
-      - ./:/home/node/app
-    expose:
-      - "8080"
-    command: "npm start"
+    image: "sushi-dashboard"
+    build: .
