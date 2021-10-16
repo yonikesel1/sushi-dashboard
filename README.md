@@ -32,4 +32,4 @@ docker-composed up -d , docker-composed down.
 
 Dockerfile - build the new image - each instruction is a layer (we want lowest number of layers)
 
-# Extended Summary in OneNote - need to work on readme
+- Extended Summary in OneNote - need to work on readme
