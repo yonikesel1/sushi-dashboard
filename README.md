@@ -16,14 +16,20 @@ Frontend: React.
 
   https://hardhat.org/hardhat-network/guides/mainnet-forking.html
 
-Summary of Day 1: (8 Hours)
+# Summary of Day 1: (8 Hours)
 
 Docker image on ubuntu machine in aws.
+
 security groups (ports-forwarding for container)
+
 key-pair (ssh to git, ssh to aws)
+
 install docker and docker-compose on ubunto (apt install docker)
+
 docker-compose.yml (build and run a layered image)
+
 docker-composed up -d , docker-composed down.
+
 Dockerfile - build the new image - each instruction is a layer (we want lowest number of layers)
 
-Summary in OneNote - need to work on readme
+# Extended Summary in OneNote - need to work on readme
