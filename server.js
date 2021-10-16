@@ -5,7 +5,7 @@ app.get("/", (req, res) => {
   res.send("Hello World");
 });
 
-/* Port 3000 */
-app.listen(3000, () => {
-  console.log("Server is listening on port 3000...");
+/* Port 8080 */
+app.listen(8080, () => {
+  console.log("Server is listening on port 8080...");
 });
