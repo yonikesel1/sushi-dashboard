@@ -16,6 +16,12 @@ Frontend: React.
 
   https://hardhat.org/hardhat-network/guides/mainnet-forking.html
 
+# How to run localy:
+
+- Clone this repo
+- use: docker-compose up -d
+- go to localhost:8080
+
 # Summary of Day 1: (8 Hours)
 
 Docker image on ubuntu machine in aws.
