@@ -16,7 +16,7 @@ Frontend: React.
 
   https://hardhat.org/hardhat-network/guides/mainnet-forking.html
 
-# How to run localy:
+# How to run locally:
 
 - Clone this repo
 - install docker + docker compose
