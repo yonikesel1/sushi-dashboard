@@ -1,8 +1,8 @@
-import { Token } from "graphql";
+import pkg1 from "urql";
+const { Token } = pkg1;
 import pkg from "urql";
 const { createClient } = pkg;
 import "isomorphic-unfetch";
-//const express = require("express");
 import express from "express";
 const app = express();
 
