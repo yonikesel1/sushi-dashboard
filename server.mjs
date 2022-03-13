@@ -1,4 +1,4 @@
-import pkg1 from "urql";
+import pkg1 from "graphql";
 const { Token } = pkg1;
 import pkg from "urql";
 const { createClient } = pkg;
