@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "SushiSwap Dashboard",
   "main": "server.js",
+  "type": "module",
   "dependencies": {
     "docker": "^1.0.0",
     "docker-compose": "^0.23.13",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "graphql": "^16.3.0",
+    "isomorphic-unfetch": "^3.1.0",
+    "urql": "^2.2.0"
   },
   "scripts": {
     "test": "test",
